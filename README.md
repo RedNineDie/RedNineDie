@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ______
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning _____
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ____
 - 📫 YOU CANNOT REACH ME.
